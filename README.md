@@ -2,7 +2,7 @@
 
 > A full-stack MERN web application for reporting, searching, and recovering lost and found items within a community.
 
-**Developed by:** Vedant Rajendra Khaire & Jay Lakshman Madhavi
+**Developed by:** Vedant Rajendra Khaire & Jay Laxman Madhavi
 **Institution:** Dr. Babasaheb Ambedkar Technological University, Lonere
 **Academic Year:** 2025–2026
 
